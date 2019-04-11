@@ -7,6 +7,7 @@ public class Library {
 		System.out.println("text");
 
 	}
+	/*text*/
     public boolean someLibraryMethod() {
         return true;
     }
