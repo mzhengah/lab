@@ -4,7 +4,7 @@
 public class Library {
 	public static void main(String arg[]) {
 
-		System.out.println(" is text");
+		System.out.println("text");
 
 	}
     public boolean someLibraryMethod() {
