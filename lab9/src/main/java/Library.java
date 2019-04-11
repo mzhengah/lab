@@ -3,7 +3,9 @@
  */
 public class Library {
 	public static void main(String arg[]) {
-		System.out.println("there is");
+
+		System.out.println(" is text");
+
 	}
     public boolean someLibraryMethod() {
         return true;
